@@ -12,3 +12,4 @@ C:\Users\SMN INGÁ - 03\Desktop\uou\obj\Debug\net9.0\refint\uou.dll
 C:\Users\SMN INGÁ - 03\Desktop\uou\obj\Debug\net9.0\uou.pdb
 C:\Users\SMN INGÁ - 03\Desktop\uou\obj\Debug\net9.0\uou.genruntimeconfig.cache
 C:\Users\SMN INGÁ - 03\Desktop\uou\obj\Debug\net9.0\ref\uou.dll
+C:\Users\SMN INGÁ - 03\Desktop\uou\obj\Debug\net9.0\uou.sourcelink.json
